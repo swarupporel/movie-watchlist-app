@@ -1,4 +1,4 @@
-# CinemaKeeper — Movie Watchlist Application
+# Movie Watchlist Application
 
 A premium, modern web application that allows users to search, explore details of their favorite movies, and maintain a personalized watchlist. Built using React, TypeScript, Vite, React Query, and Tailwind CSS.
 
